@@ -94,8 +94,6 @@ public class DevTools {
             res = db.queryView(selectQuery);
         }
 
-
-
         cls();
         return username;
     }

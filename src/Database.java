@@ -11,7 +11,6 @@ public class Database {
         url = "jdbc:mysql://localhost:3306/library";
         username = "root";
         password = "";
-
     }
 
     int query(String x) {
